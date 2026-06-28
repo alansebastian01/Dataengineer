@@ -1,7 +1,5 @@
-Kafka can refer to two different things, depending on the context:
 
 1. **Apache Kafka (software)** – a distributed event streaming platform used in software engineering.
-2. **Franz Kafka (writer)** – the influential 20th-century author.
 
 Since many technical questions use "Kafka" to mean the software, here's an explanation of **Apache Kafka**:
 
