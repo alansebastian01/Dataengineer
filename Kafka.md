@@ -1,4 +1,3 @@
-
 1. **Apache Kafka (software)** – a distributed event streaming platform used in software engineering.
 
 Since many technical questions use "Kafka" to mean the software, here's an explanation of **Apache Kafka**:
